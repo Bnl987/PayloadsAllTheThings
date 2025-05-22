@@ -29,10 +29,4 @@ You might also like the other projects from the AllTheThings family :
 - [InternalAllTheThings](https://swisskyrepo.github.io/InternalAllTheThings/) - Active Directory and Internal Pentest Cheatsheets
 - [HardwareAllTheThings](https://swisskyrepo.github.io/HardwareAllTheThings/) - Hardware/IOT Pentesting Wiki
 
-<p align="center">
-<a href="https://github.com/swisskyrepo/PayloadsAllTheThings/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=swisskyrepo/PayloadsAllTheThings&max=36" alt="sponsors-list" >
-</a>
-</p>
-
 Thanks again for your contribution! :heart:
